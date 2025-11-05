@@ -19,9 +19,3 @@ It allows the user to play against the computer, where the computer’s move is 
 - Simple and clean C logic  
 - Great beginner mini-project  
 
----
-
-## 💻 How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/snake-water-gun-game-in-c.git
